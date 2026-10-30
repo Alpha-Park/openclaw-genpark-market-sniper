@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-market-sniper",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Market Sniper - Sub-millisecond on-chain DEX liquidity pool sniper with CPMM impact, analytical optimal sizing, and MEV sandwich protection.",
+  "tools": [
+    "calculate_amm_price_and_impact",
+    "compute_optimal_swap_size",
+    "evaluate_mev_sandwich_risk"
+  ]
+}
